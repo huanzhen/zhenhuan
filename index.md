@@ -1,7 +1,7 @@
 
 ## Zhen Huan (郇真) 
 
-![screenshot](huanz.jpg)
+
 
 School of Mathematics 
 
