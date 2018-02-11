@@ -24,7 +24,7 @@ Here is my ![CV](CV_Huan.pdf).
 
 ## Research
 
-My research interests are in algebraic topology, homotopy theory and related field. The main subject I'm working on is quasi-elliptic cohomology.
+My research interests are in algebraic topology, algebraic geometry and mathematcial physics. The main subject I'm working on is quasi-elliptic cohomology.
 
 Here is my [research statement](Huan_RS.pdf).
 
@@ -40,7 +40,13 @@ Here is my [dissertation](Zhen_Thesis.pdf).
 
 Level Structures, Free Loops, and Morava E-theory (Joint work with Nathaniel Stapleton). In Preparation.
 
+A Survey of Quasi-Elliptic Cohomology. In Preparation.
+
 ## Invited Talks
+
+Beijing Jiaotong University, _Quasi-elliptic cohomology_, February 28, 2018.
+
+Sun Yat-sen University, Zhuhai Campus, _Quasi-elliptic cohomology_, January 12, 2018.
 
 Peking University Geometry and Topology Seminar, _Quasi-elliptic cohomology_, November 30, 2017.
 
